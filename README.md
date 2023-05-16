@@ -2,9 +2,10 @@
 
 ## Setting up the environment
 1. [Install miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)(if not already installed)
-2. Set up the virtual environment//
+2. Set up the virtual environment.    
+
 conda env create -f environment.yml
-conda activate bkmr_mhmc
+conda activate bkmr_mhmc            
 
 if jax and jaxlib not successfully installed, [install it](https://github.com/google/jax#installation) here
 
