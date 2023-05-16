@@ -18,7 +18,7 @@
         pip install numpyro 
 
 ## Reproducing the simulation results
-Use the scripts in the scripts folder to reproduce results in the paper.
+Use the scripts in the scripts/Simulation folder to reproduce results in the paper.
 
 
 
