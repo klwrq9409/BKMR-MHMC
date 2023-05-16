@@ -4,8 +4,8 @@
 1. [Install miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)(if not already installed)
 2. Set up the virtual environment<br>        
 
-conda env create -f environment.yml<br> 
-conda activate bkmr_mhmc<br>
+        conda env create -f environment.yml<br> 
+        conda activate bkmr_mhmc<br>
 
 
 
