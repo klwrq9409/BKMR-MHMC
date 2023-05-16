@@ -18,7 +18,7 @@
         pip install numpyro 
 
 ## Reproducing the simulation results
-Use the scripts in the scripts/Simulation folder to reproduce results in the paper.
+Use the scripts in the scripts/Simulation folder to reproduce results in the paper. Note that only N=500 was included, for N=1000 and N=2000, simplyly replace the N.
 
 
 
